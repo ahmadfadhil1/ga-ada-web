@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://victorious-island-0e8784d10.2.azurestaticapps.net/sitemap.xml
